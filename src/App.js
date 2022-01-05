@@ -7,6 +7,8 @@ export default function App() {
             <h1 className="d-flex justify-content-center">Mini-Project-React</h1>
         </div>
       </div>
+
+      {/* llllllllllllllllllllllllllllllllllllllll */}
      
       <div className="row">
       {list.map((item)=>(
